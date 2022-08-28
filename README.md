@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=i0nics&count_private=true&theme=github_dark&showicons=true)](https://github.com/i0nics/github-readme-stats)
+
 <!--
 **i0nics/i0nics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
